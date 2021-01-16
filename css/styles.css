@@ -1,0 +1,70 @@
+html {
+    background-color: #5b656b;
+}
+body {
+    margin: 0;
+    background-color: #5b656b;
+}
+h2 {
+    
+}
+p {
+    
+}
+
+/* about me section */
+.me {
+    padding: 40px 5%;
+    border: solid black;
+    border-width: 1.5px 0;
+    height: 90%;
+}
+.me .image {
+    width: 30%;
+    background-color: lightgray;
+    height: 300px;
+}
+.me .text {
+    width: 70%
+}
+.me p {
+    
+}
+
+/* paralaxes */
+.paralax {
+    height: 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#header {
+    background-image: url(../images/1.jpg);
+}
+#paralaximg2 {
+    background-image: url(../images/2.jpg);
+}
+
+/* footer */
+footer {
+    padding: 30px 10%;
+    margin: 0;
+    text-align: center;
+}
+footer small {
+    font-family: 'Times New Roman';
+    font-size: 13px;
+    text-align: center;
+}
+/* instagram button */
+.sociallinks {
+    margin: 25;
+}
+.sociallinks a {
+    position: relative;
+    float: none;
+    color: black;
+    text-decoration: underline;
+}
+#socialicon {}
